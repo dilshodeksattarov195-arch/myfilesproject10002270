@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvtringify",
+        "uuid": 18988550,
+        "checksum": "wk7f3w"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
